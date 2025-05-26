@@ -16,7 +16,7 @@ This project provides a Google Apps Script that connects Zoom to Google Drive, a
    Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/yourusername/zoom-drive-connector.git
+   git clone https://github.com/vatablaze/zoom-drive-connector.git
    ```
 
 2. **Configure the Script**:
